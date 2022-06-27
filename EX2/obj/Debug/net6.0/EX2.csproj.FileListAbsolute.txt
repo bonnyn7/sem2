@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.AssemblyInfo.cs
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C#/sem2/EX2/bin/Debug/net6.0/EX2
+/Users/macbook/Desktop/C#/sem2/EX2/bin/Debug/net6.0/EX2.deps.json
+/Users/macbook/Desktop/C#/sem2/EX2/bin/Debug/net6.0/EX2.runtimeconfig.json
+/Users/macbook/Desktop/C#/sem2/EX2/bin/Debug/net6.0/EX2.dll
+/Users/macbook/Desktop/C#/sem2/EX2/bin/Debug/net6.0/EX2.pdb
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.dll
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/refint/EX2.dll
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.pdb
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/EX2.genruntimeconfig.cache
+/Users/macbook/Desktop/C#/sem2/EX2/obj/Debug/net6.0/ref/EX2.dll
